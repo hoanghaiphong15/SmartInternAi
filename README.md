@@ -36,7 +36,24 @@ Cloud
 - Notification
 - Roadmap hoc tap
 
-# use cases
-Actor: Student, nha tuyen dung, Admin
+# Use cases
+Actor: Student, Recruiter, Admin
+
+Student
+- Register
+- Login
+- Upload CV
+- Search Job
+- Apply Job
+Recruiter
+- Login
+- Post Job
+- View Candidates
+Admin
+- Manage Users
+- Manage Jobs
+
+# Database ( ERD )
+
 
 # Structure
